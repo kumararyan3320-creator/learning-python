@@ -1,0 +1,23 @@
+'''a = 2
+b = 3
+c = 4
+
+if a > b and a > c:
+    print("Largest number is:", a)
+elif b > a and b > c:
+    print("Largest number is:", b)
+else:
+    print("Largest number is:", c)'''
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+c = int(input("Enter third number: "))
+a = 2
+b = 3
+c = 4
+if a > b and a > c:
+    print("Largest number is:", a)
+elif b > a and b > c:
+    print("Largest number is:", b)
+else:
+    print("Largest number is:", c)
