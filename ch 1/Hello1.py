@@ -1,4 +1,5 @@
-print("Hello World, \nthis is  Aryan !!")
+hello = "Python"
+print("Hello World, \nthis is  " + hello + " !!")
 # this should print hello world
 
 #multiline comment('''         ''')
