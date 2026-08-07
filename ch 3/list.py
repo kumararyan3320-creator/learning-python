@@ -130,13 +130,18 @@ Output:
 # print(list)
 
 
-list = ['m','o','n','k','e','y']
-print('@'.join(list))
+# list = ['m','o','n','k','e','y']
+# print('@'.join(list))
 
-chars = ['m','o','n','k','e','y']
-print("".join(chars))
+# chars = ['m','o','n','k','e','y']
+# print("".join(chars))
 
-# 0R
+# # 0R
 
-list = ['m','o','n','k','e','y']
-print("".join(list))
+# list = ['m','o','n','k','e','y']
+# print("".join(list))
+
+
+fruits = ["apple", "mango", "cherry", "banana"] 
+fruits[1]
+print(fruits[1])
